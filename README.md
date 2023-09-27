@@ -1,2 +1,2 @@
-# GAme Kart
+# Game Kart
 currently working on it.....
