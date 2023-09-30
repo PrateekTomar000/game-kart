@@ -1,5 +1,5 @@
 # Game Kart
-Need to purchase datbase for running...
+Need to purchase database for running...
 
 
 Here are screenshots by hosting locally on my laptop..
